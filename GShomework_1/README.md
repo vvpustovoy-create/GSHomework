@@ -1,1 +1,1 @@
-# ТЕСТ HTML "SHOP bakery"
+# ТЕСТ HTML "Beauty Zone"
